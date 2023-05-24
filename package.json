@@ -1,16 +1,17 @@
 {
-  "name": "better-npm-audit",
-  "version": "3.7.3",
+  "name": "better-npm-audit-json",
+  "version": "3.7.9",
   "author": "Jee Mok <jee.ict@hotmail.com>",
   "description": "Reshape into a better npm audit for the community and encourage more people to include security audit into their process.",
   "license": "MIT",
   "main": "index.js",
+  "private": false,
   "bin": {
-    "better-npm-audit": "index.js"
+    "better-npm-audit-json": "index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeemok/better-npm-audit"
+    "url": "https://github.com/aledj02/better-npm-audit.git"
   },
   "engines": {
     "node": ">= 8.12"
